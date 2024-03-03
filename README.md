@@ -1,4 +1,4 @@
-# Minimal Mania
+# ✨Minimal Mania✨
 
 Minimal Mania is a repository dedicated to the art of minimalism. The goal is to create minimal posters on given themes, challenging the creative and logical aspects of your brain to produce the best piece of art with the least number of elements.
 
